@@ -1,2 +1,2 @@
 # my-first-project
-My first project using Github and Vs cODE
+My first project using Github and Vs Code
